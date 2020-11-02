@@ -1,4 +1,4 @@
-##Personal information
+## Personal information
 ----
 First name : Zeynab
 
@@ -12,7 +12,7 @@ Married
 
 Tehran,iran
 
-##Languages
+## Languages
 ----
 Persian
 
@@ -20,19 +20,19 @@ English(Intermediate)
 
 Turki
 
-##Skills
+## Skills
 ----
 • ICDL courses
 
 • Programming Languages(C++,C)
 
-##Education
+## Education
 ----
 Diploma: Doctor hesabi High school
 
 Bachelor of science: Computer Engineering Payam Noor University of Tehran
 
-##Favorites
+## Favorites
 ----
 Computer games
 
@@ -40,6 +40,6 @@ Sport
 
 Designing
 
-##Work Experience
+## Work Experience
 ----
 Now I am a Bachelors student in computer engineering
