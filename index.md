@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+##Personal information
 
-You can use the [editor on GitHub](https://github.com/zeynab-sayahi/zeynabsayahi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+First name : Zeynab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Last name : Sayahi Bakhshayesh
 
-### Markdown
+Birth Day : 27 Nov 1995
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: zeynab.sb74@gmail.com
 
-```markdown
-Syntax highlighted code block
+Married
 
-# Header 1
-## Header 2
-### Header 3
+Tehran,iran
 
-- Bulleted
-- List
+##Languages
 
-1. Numbered
-2. List
+Persian
 
-**Bold** and _Italic_ and `Code` text
+English(Intermediate)
 
-[Link](url) and ![Image](src)
-```
+Turki
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##Skills
 
-### Jekyll Themes
+• ICDL courses
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeynab-sayahi/zeynabsayahi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+• Programming Languages(C++,C)
 
-### Support or Contact
+##Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Diploma: Doctor hesabi High school
+
+Bachelor of science: Computer Engineering Payam Noor University of Tehran
+
+##Favorites
+
+Computer games
+
+Sport
+
+Designing
+
+##Work Experience
+
+Now I am a Bachelors student in computer engineering
