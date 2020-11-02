@@ -1,5 +1,5 @@
 ##Personal information
-
+----
 First name : Zeynab
 
 Last name : Sayahi Bakhshayesh
@@ -13,7 +13,7 @@ Married
 Tehran,iran
 
 ##Languages
-
+----
 Persian
 
 English(Intermediate)
@@ -21,19 +21,19 @@ English(Intermediate)
 Turki
 
 ##Skills
-
+----
 • ICDL courses
 
 • Programming Languages(C++,C)
 
 ##Education
-
+----
 Diploma: Doctor hesabi High school
 
 Bachelor of science: Computer Engineering Payam Noor University of Tehran
 
 ##Favorites
-
+----
 Computer games
 
 Sport
@@ -41,5 +41,5 @@ Sport
 Designing
 
 ##Work Experience
-
+----
 Now I am a Bachelors student in computer engineering
